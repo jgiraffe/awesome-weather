@@ -11,8 +11,8 @@ android의 경우 링크의 qr code를 스캔해 앱을 사용해 보실 수 있
 ### 0. Install Expo
 
 ```
-npm install -g expo-cli
-expo init *app name*
+$ npm install -g expo-cli
+$ expo init (app name)
 ```
 
 ### 1. ios device에서 test
