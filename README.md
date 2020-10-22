@@ -2,7 +2,7 @@
 
 https://expo.io/@jgiraffe/projects/awesome-weather
 
-- android의 경우 링크의 qr code를 스캔해 앱을 사용해 보실 수 있습니다.
+android의 경우 링크의 qr code를 스캔해 앱을 사용해 보실 수 있습니다.
 
 Expo로 React Native App 만들기 (Nomad Coders React Native로 날씨앱 만들기)
 
