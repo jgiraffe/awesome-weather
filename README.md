@@ -1,6 +1,6 @@
 # Awesome Weather (Nomadcoders RN Fundamentals Course)
 
-## Expo-CLI로 만든 날씨 제공 App
+## Expo로 만든 날씨 제공 App
 
 https://expo.io/@jgiraffe/projects/awesome-weather
 
