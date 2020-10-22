@@ -1,6 +1,10 @@
 # Awesome Weather
+## Expo로 React Native App 만들기 (Nomad Coders - React Native로 날씨앱 만들기)
+https://expo.io/@jgiraffe/projects/awesome-weather
 
-Expo로 React Native App 만들기 (Nomad Coders React Native로 날씨앱 만들기)
+android의 경우 링크의 qr code를 스캔해 앱을 사용해 보실 수 있습니다.
+
+## 공부한 내용
 
 ### 0. Install Expo
 
@@ -17,13 +21,29 @@ expo app에서 login 후
 expo login
 ```
 
-### 2. Layouts with Flexbox in RN
+### 2. View와 Text
+- View와 비슷한 건 div, Text와 비슷한 건 span
+```
+<View>
+<Text>Hello RN!</Text>
+</View>
+```
+
+### 3. Layouts with Flexbox in RN
 
 - default direction : column
 - flex: 1은 화면 전체를 차지
 - flex: 1인 View와 flex: 2인 View가 같은 View의 자식이면 화면의 1/3과 2/3를 차지
+```
+<View style={styles.container}></View>
 
-### 3. template string (es6)
+const styles = StyleSheet.create({
+ container: {
+  flex: 1,
+ },
+ ```
+
+### 4. template string (es6)
 
 백틱을 사용
 
