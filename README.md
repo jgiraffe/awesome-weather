@@ -2,14 +2,14 @@
 
 Expo로 React Native App 만들기 (Nomad Coders React Native로 날씨앱 만들기)
 
-### Install Expo
+### 0. Install Expo
 
 ```
 npm install -g expo-cli
 expo init *app name*
 ```
 
-### ios device에서 test
+### 1. ios device에서 test
 
 expo app에서 login 후
 
@@ -17,7 +17,7 @@ expo app에서 login 후
 expo login
 ```
 
-### Layouts with Flexbox in RN
+### 2. Layouts with Flexbox in RN
 
 - default direction : column
 - flex: 1은 화면 전체를 차지
