@@ -1,6 +1,4 @@
-# Awesome Weather
-
-## Expo로 React Native App 만들기 (Nomad Coders - React Native로 날씨앱 만들기)
+# Awesome Weather (Nomadcoders RN Fundamentals Course)
 
 https://expo.io/@jgiraffe/projects/awesome-weather
 
