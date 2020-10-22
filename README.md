@@ -1,5 +1,7 @@
 # Awesome Weather (Nomadcoders RN Fundamentals Course)
 
+## Expo-CLI로 만든 날씨 제공 App
+
 https://expo.io/@jgiraffe/projects/awesome-weather
 
 android의 경우 playstore에서 expo를 다운로드 받고 위 링크의 qr code를 스캔해 앱을 사용해 보실 수 있습니다.
