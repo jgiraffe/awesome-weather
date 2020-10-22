@@ -1,6 +1,9 @@
 # Awesome Weather
 
+https://expo.io/@jgiraffe/projects/awesome-weather android는 expo, ios는 expo client를 통해 test 가능합니다.
+
 Expo로 React Native App 만들기 (Nomad Coders React Native로 날씨앱 만들기)
+
 
 ### 0. Install Expo
 
