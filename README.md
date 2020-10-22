@@ -83,7 +83,7 @@ import { LinearGradient } from "expo-linear-gradient";
 
 ### 6. @expo/vector-icons
 
-expo 기본 제공 icon (https://icons.expo.fyi/)
+expo 기본 vector icon (https://icons.expo.fyi/)
 
 ```
 import { MaterialCommunityIcons } from "@expo/vector-icons";
